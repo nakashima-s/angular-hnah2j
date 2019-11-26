@@ -1,0 +1,10 @@
+
+npm install -g @angular/cli
+ng new my-project-name
+
+プロジェクトに移動して
+ng build --prod
+
+ng serve --open
+http://localhost:4200
+
